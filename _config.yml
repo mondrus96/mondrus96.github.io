@@ -12,7 +12,7 @@ title                    : "MD-PhD Candidate / University of Alberta"
 title_separator          : "-"
 name                     : &name "Martin Ondrus"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://mondrus96.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mondrus96/mondrus96.github.io"
 
