@@ -13,4 +13,4 @@ I'm interested in statistics, machine learning, and neuroscience broadly. My res
 
 If you would like to chat, please reach out to me at either mondrus[at]ualberta.ca or martin.ondrus[at]nyu.edu.
 
-I also like to run, and if you do too, feel free to [add me on Strava](https://strava.app.link/PXLcaH2kILb)
+I also like to run, and if you do too, feel free to [add me on Strava](https://strava.app.link/PXLcaH2kILb)!
