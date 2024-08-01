@@ -7,6 +7,6 @@ redirect_from:
   - /resume
 ---
 
- <div class="wordwrap">Coming Soon!</a>.</div>
+ <div class="wordwrap">Coming Soon!</div>
 
 {% include base_path %}
