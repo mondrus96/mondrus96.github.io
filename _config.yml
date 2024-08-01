@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-CA"
-title                    : "MD-PhD Candidate / University of Alberta"
+title                    : "Martin Ondrus"
 title_separator          : "-"
 name                     : &name "Martin Ondrus"
 description              : &description "personal description"
@@ -23,12 +23,12 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Martin Ondrus"
-  pronouns         : # example: "she/her"  
-  bio              : "I am a 4th year MD-PhD candidate at the University of Alberta, and also a visiting academic at New York University."
+  pronouns         : # 
+  bio              : "I am a 4th year MD-PhD candidate in Computational Neuroscience."
   location         : "Edmonton mostly, NYC sometimes"
   employer         : # 
   uri              : # URL
-  email            : "martin.ondrus[at]nyu.edu" 
+  email            : #
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
