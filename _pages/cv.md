@@ -7,6 +7,8 @@ redirect_from:
   - /resume
 ---
 
- <div class="wordwrap">Coming Soon!</div>
+<div class="wordwrap">
+  [Curriculum Vitae (August 2024)]({{ site.baseurl }}/files/CV.pdf)
+</div>
 
 {% include base_path %}
