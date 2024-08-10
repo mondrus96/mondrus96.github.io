@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <div class="wordwrap">
-[Download My CV]({{ site.baseurl }}/files/CV.pdf)
+[Download My CV](/files/CV.pdf)
 </div>
 
 {% include base_path %}
