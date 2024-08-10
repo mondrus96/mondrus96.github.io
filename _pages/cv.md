@@ -7,6 +7,8 @@ redirect_from:
   - /resume
 ---
 
-[Download My CV](/files/CV.pdf)
+[Curriculum Vitae (August 2024)](/files/CV.pdf)
+
+[Resume (August 2024)](/files/Resume.pdf)
 
 {% include base_path %}
