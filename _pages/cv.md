@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <div class="wordwrap">
-  [Curriculum Vitae (August 2024)]({{ site.baseurl }}/files/CV.pdf)
+[Download My CV]({{ site.baseurl }}/files/CV.pdf)
 </div>
 
 {% include base_path %}
