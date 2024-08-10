@@ -7,8 +7,6 @@ redirect_from:
   - /resume
 ---
 
-<div class="wordwrap">
 [Download My CV](/files/CV.pdf)
-</div>
 
 {% include base_path %}
