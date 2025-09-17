@@ -12,5 +12,3 @@ I am a **scientist focused on statistics and machine learning for neuroimaging**
 I'm interested in **statistics, machine learning, and neuroscience** broadly. I focus on creating robust methods for, and deriving novel insights from neuroimaging data. I am keenly interested in developing graph/network models for time-varying, multimodal data and using this to drive understanding of cogntive processes and disease mechanisms in the brain.
 
 If you would like to chat, **please reach out** to me at either mondrus[at]ualberta.ca or martin.ondrus[at]nyu.edu.
-
-I also like to run, and if you do too, feel free to [add me on Strava](https://strava.app.link/PXLcaH2kILb)!
