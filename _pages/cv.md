@@ -7,8 +7,8 @@ redirect_from:
   - /resume
 ---
 
-[Resume (August 2024)](/files/MartinOndrus_Resume.pdf)
+[Resume (December 2025)](/files/MartinOndrus_Resume.pdf)
 
-[Curriculum Vitae (August 2024)](/files/MartinOndrus_CV.pdf)
+[Curriculum Vitae (December 2025)](/files/MartinOndrus_CV.pdf)
 
 {% include base_path %}
